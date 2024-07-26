@@ -1,0 +1,25 @@
+.mydiv{
+    width: 30%;
+    height: 300px;
+    background-color: orange;
+    margin-right: 3.33%;
+    float:left;
+    text-align: center;
+
+}
+.mydiv1 {
+    width: 30%;
+    height: 300px;
+    background-color: blue;
+    margin-right: 3.33%;
+    float:left;
+    text-align: center;
+}
+.mydiv2 {
+    width: 30%;
+    height: 300px;
+    background-color: orangered;
+    margin-right: 3.33%;
+    float:left;
+    text-align: center;
+}
